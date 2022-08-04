@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiokee/React-Counter.github.io.git/static/css/main.dec4412e.css",
+    "main.js": "/fiokee/React-Counter.github.io.git/static/js/main.d076f352.js",
+    "static/js/787.5863b875.chunk.js": "/fiokee/React-Counter.github.io.git/static/js/787.5863b875.chunk.js",
+    "index.html": "/fiokee/React-Counter.github.io.git/index.html",
+    "main.dec4412e.css.map": "/fiokee/React-Counter.github.io.git/static/css/main.dec4412e.css.map",
+    "main.d076f352.js.map": "/fiokee/React-Counter.github.io.git/static/js/main.d076f352.js.map",
+    "787.5863b875.chunk.js.map": "/fiokee/React-Counter.github.io.git/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec4412e.css",
+    "static/js/main.d076f352.js"
+  ]
+}
